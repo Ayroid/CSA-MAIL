@@ -3,7 +3,12 @@ body{
     margin : 2;
     padding : 2;
     box-sizing : border-box;
-    background-color: rgb(8, 8, 43);
+    /*background-color: rgb(8, 8, 43);*/
+    background-image: url('Internet Creative Technology Circuit Circuit Background Wallpaper Image For Free Download - Pngtree.jpg');
+    background-size: cover;
+    /*background-position: center;
+    background-repeat: no-repeat;
+    color: black;*/
 
 }
 

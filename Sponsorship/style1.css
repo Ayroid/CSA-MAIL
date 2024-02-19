@@ -1,69 +1,61 @@
-body{
-    font-family: 'Times New Roman', Times, serif;
-    margin : 2;
-    padding : 2;
-    box-sizing : border-box;
-    /*background-color: rgb(8, 8, 43);*/
-    background-image: url('Internet Creative Technology Circuit Circuit Background Wallpaper Image For Free Download - Pngtree copy.jpg');
-    background-size: cover;
-    /*background-position: center;
-    background-repeat: no-repeat;
-    color: black;*/
-
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
 }
 
-.mail{
-    max-width: 800px;
-    margin : 20px auto;
-    background-color: rgb(187, 210, 239);
-    padding: 20px;
-    border: 10px solid black;
-
+.mail {
+  max-width: 400px;
+  padding: 20px;
+  margin: 0 auto;
+  box-sizing: border-box;
+  background-color: rgb(187, 210, 239);
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-
-header h1{
-    color: black;
-    text-align: centre;
+header h1 {
+  color: black;
+  text-align: centre;
 }
 
 .content {
-    margin-top: 20px;
+  margin-top: 20px;
 }
-.content ul{
-    color: black;
+.content ul {
+  color: black;
 }
-
 
 .content p {
-    color : black;
-    line-height: 1.5;
+  color: black;
+  line-height: 1.5;
 }
 
 .contact-info {
-    margin-top: 20px;
+  margin-top: 20px;
 }
 
 .contact-info p {
-    color: black;
-    margin: 0;
+  color: black;
+  margin: 0;
 }
 
 .contact-info strong {
-    color: black;
+  color: black;
 }
 
 #viewPdfButton {
-    background-color: #007BFF;
-    color: #fff;
-    padding: 10px 300px;
-    font-size: 15px;
-    border: none;
-    border-radius: 5px;
-    margin-top: 10px;
-    white-space: nowrap;
+  background-color: #007bff;
+  color: #fff;
+  width: 100%;
+  padding-block: 10px;
+  font-size: 15px;
+  border: none;
+  border-radius: 5px;
+  margin-top: 10px;
+  white-space: nowrap;
 }
 
 #viewPdfButton:hover {
-    background-color: #0056b3; /* Change background color on hover */
+  background-color: #0056b3; /* Change background color on hover */
 }
